@@ -75,12 +75,13 @@ body {
   color: #e1f4f3;
 }
 .heading {
+  color: #07689f;
   font-size: 2rem;
   font-weight: normal;
 }
 
 h1 {
-  color: #40a8c4;
+  color: #595238;
   font-family: Great Vibes, cursive;
   font-size: 5.625rem;
   margin-bottom: 2;
